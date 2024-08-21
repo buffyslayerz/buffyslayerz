@@ -1,8 +1,5 @@
 🦇✨ just to be clear, i hate computers.
 
-📉 experienced in typescript, go, elixir, java (< kotlin), python and like twenty over useless languages.
-
-i'm not passionate, or innovative, or have any good qualities.
-i just make things that are useful and other people can't be asked to do.
+📉 mostly program in go, typescript, elixir, python & kotlin. but experienced in many more (java, pascal, c#, etc.)
 
 💫 and most importantly, have fun. 
